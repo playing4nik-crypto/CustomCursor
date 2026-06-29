@@ -1,0 +1,3 @@
+-keep class com.customcursor.app.** { *; }
+-keep class dev.rikka.shizuku.** { *; }
+-dontwarn dev.rikka.**

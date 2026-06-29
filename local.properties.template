@@ -1,0 +1,5 @@
+# Copy this to local.properties and set sdk.dir to your Android SDK path.
+# Example (Linux/Termux):  sdk.dir=/data/data/com.termux/files/home/android-sdk
+# Example (macOS):         sdk.dir=/Users/yourname/Library/Android/sdk
+# Example (Windows):       sdk.dir=C\:\\Users\\yourname\\AppData\\Local\\Android\\Sdk
+sdk.dir=YOUR_SDK_PATH_HERE

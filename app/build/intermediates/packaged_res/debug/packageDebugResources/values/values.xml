@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="deep_navy">#FF0A0E1A</color>
+    <color name="neon_cyan">#FF00E5FF</color>
+    <color name="surface_dark">#FF121726</color>
+    <string name="accessibility_service_description">Tracks mouse pointer position to draw a custom cursor overlay system-wide. No personal data is collected.</string>
+    <string name="accessibility_service_label">Custom Cursor Overlay</string>
+    <string name="app_name">Custom Cursor</string>
+    <string name="border_color">Border Color</string>
+    <string name="border_thickness">Border Thickness</string>
+    <string name="cursor_preview">Cursor Preview</string>
+    <string name="cursor_shape">Cursor Shape</string>
+    <string name="cursor_size">Cursor Size</string>
+    <string name="enable_service">Enable Accessibility Service</string>
+    <string name="fill_color">Fill Color</string>
+    <string name="service_active">Service Active</string>
+    <string name="service_inactive">Tap to Enable</string>
+    <string name="set_now">Set Now</string>
+    <style name="Theme.CustomCursor" parent="android:Theme.Material.NoTitleBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

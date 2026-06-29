@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color deep_navy
+color neon_cyan
+color surface_dark
+drawable ic_cursor_default
+mipmap ic_launcher
+mipmap ic_launcher_round
+string accessibility_service_description
+string accessibility_service_label
+string app_name
+string border_color
+string border_thickness
+string cursor_preview
+string cursor_shape
+string cursor_size
+string enable_service
+string fill_color
+string service_active
+string service_inactive
+string set_now
+style Theme.CustomCursor
+xml accessibility_service_config
